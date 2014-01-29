@@ -1,0 +1,1 @@
+likes('paul','pierre').
